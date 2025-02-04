@@ -1,1 +1,1 @@
-# EasyBankChallenge
+# Landing Page
